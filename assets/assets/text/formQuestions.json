@@ -25,7 +25,7 @@
           "adviceLiDAR": "Akkerland is niet ideaal voor LiDAR. Omdat de grond vaak wordt omgeploegd verdwijnen de hoogte verschillen van archeologische fenomenen. LiDAR werkt het best op land dat niet actief wordt gebruikt. ",
           "adviceLuchtfoto": "Op akkers kunnen cropmarks tijdens droge periodes goed te zien zijn in droge periodes. Wanneer de grond geploegd is, zullen soil marks ook duidelijk naar boven komen. Ook bij geploegde akkers zullen shadow marks mogelijk zichtbaar worden en tijdens de groeiperiode van de gewassen. Snow/frost marks zullen het beste resultaat geven voor te ontkieming en na de oogst. ",
           "adviceMultiSpec": "Akkerland is erg geschikt voor multispectrale analyses. In de periode dat planten groeien, dan zullen ze de meeste stress ervaren. Omdat de gewassen op akkers vaak grote gebieden bedekken wordt de kans op zichtbaarheid vergroot. Het extra voordeel van akkers is dat de groeiperiode van de gewassen vaak te voorspellen/te plannen is. Waardoor de meest effectieve periode van vliegen bekend is. ",
-          "scoreLiDAR": 9,
+          "scoreLiDAR": 6,
           "scoreLuchtfoto": 15,
           "scoreMultiSpec": 15
         },
