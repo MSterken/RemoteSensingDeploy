@@ -254,7 +254,7 @@
         }
       ]
     },
-    { "question": "Wat voor klimaatperiode geld voor het onderzoeksgebied ten tijde van het onderzoek? ",
+    { "question": "Wat voor klimaatperiode geldt voor het onderzoeksgebied ten tijde van het onderzoek? ",
       "answers": [
         { "answer": "Korte periode van droogte",
           "advice": "",
